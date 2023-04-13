@@ -47,3 +47,14 @@ Drogon tool could be the most popular developer tool in the growing ICON ecosyst
 - Project promotion will be done by Drogon team + ICON Foundation + ‘withICONists DAO’
 - Project validity judged by Drogon team + ICON Foundation + ‘withICONists DAO’
 - To be eligible to receive a reward, projects are required to submit 1) link to open git repository, 2) interactable project demo, 3) link to live contracts on test network with instructions for usage
+
+## Submission
+
+- Submission will occur via the [ICON Zealy platform](https://zealy.io/c/icx/)
+- After a user is registered via discord verification and an ICON wallet is provided, submission will be possible.
+- Submit your project following the submission guidelines within [this quest](https://zealy.io/c/icx/questboard/fa008dc1-8b0a-4a16-9a50-7df2e972f529)
+  - Reiterating the details mentioned in the quest above, submissions must include;
+   - A link to open git repository.
+   - A link to an interactable project demo.
+   - A link to live contracts on test network with instructions for usage.
+   - Confirmation of if you wish for this project to be considered as a 'High-Quality' Project (as detailed above)
