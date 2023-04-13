@@ -7,6 +7,9 @@ An initiative is an endeavor that is important to the development of a project i
 
 Feel free to reach out on Discord to coordinate to pursue some initiative with ICONists!
 
+# Best Practice
+by standard practice, initiatives shall be pursued based on community vote, although in the initial stages (~first 6 months) of the DAO, initiatives may be pursued by direct recommendation from a DAO leader (John Hooley, Arosh Ediriweera, Eric Solomon)
+
 ## Contacts
 
 [ICON Discord](https://discord.gg/b5QvCXJjJM)
