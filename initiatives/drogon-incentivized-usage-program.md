@@ -6,7 +6,7 @@ Incentivize usage for Drogon tool
 
 Drogon tool could be the most popular developer tool in the growing ICON ecosystem. However, it needs to be further promoted and possibly debugged for developers. For this, we are using our budget ($2k bnUSD) to incentivize usage of the tool. This program is funded by [ICON CPS grant](https://cps.icon.community/proposals/bafybeiedku3fxuhheyz7mjlplb5zyjbxxu4qzpl4gmu7nvfs2yapdthy64)
 
-[Drogon](https://github.com/icon-community/drogon) is partnering with ICONists, a DAO by John and Arosh (Discord Managers), in order to gather community members and track results
+[Drogon](https://github.com/icon-community/drogon) is partnering with ICONists, a DAO by John and Arosh (Community Managers), in order to gather community members and track results
 
 ## Incentivization
 
