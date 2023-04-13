@@ -1,5 +1,5 @@
 # initiatives
-This is a repository for tracking the initiatives being co-run with ICONISTs
+This is a repository for tracking the initiatives being co-run with ICONists
 
 See past, present, and planned [initiatives](./initiatives/)
 
