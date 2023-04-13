@@ -22,7 +22,7 @@ Drogon tool could be the most popular developer tool in the growing ICON ecosyst
 
 - DAO with agora + [IRC 2](https://github.com/icon-project/IIPs/blob/master/IIPS/iip-2.md), [IRC 3](https://github.com/icon-project/IIPs/blob/master/IIPS/iip-3.md), or [IRC 31](https://github.com/icon-project/IIPs/blob/master/IIPS/iip-31.md)
 - DEX
-- Game using Unity SDK
+- Game using [ICON Unity SDK](https://github.com/icon-community/ICON-Unity-SDK)
 - Voting contract
 - Crowd funding
 - File reference system using IPFS
