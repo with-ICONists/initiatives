@@ -1,5 +1,6 @@
 # initiatives
-This is a repository for tracking the initiatives being co-run with ICONists
+This is a repository for tracking the initiatives being co-run with ICONists. 
+A reader friendly dashboard for these initiatives can be found on [with ICONists' Initiative Dashboard](https://github.com/with-ICONists/initiatives/wiki)
 
 See past, present, and planned [initiatives](./initiatives/)
 
