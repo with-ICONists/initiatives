@@ -78,7 +78,7 @@ For these type of initiatives
 Like if took it and it didn’t win, I wouldn’t join”
 
 **KPIs**
-During the collaboration quiz, 51 individuals onboarded to the Studio Mirai server. Of which 20 completed the servers sign up and 2 can be considered a continually active community member (as of a month later).
+During the collaboration quiz, 51 individuals onboarded to the Studio Mirai server. Of which 20 completed the servers sign up and 2 remain active community member (as of a month later).
 
 Ben remains open to future collaborative events but raises the thought that the reward for participants only incentivises winners and if he didn’t win he probably wouldn’t play again.
 
