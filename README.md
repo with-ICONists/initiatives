@@ -18,6 +18,6 @@ by standard practice, initiatives shall be pursued based on community vote, alth
 
 [ICON Discord](https://discord.gg/b5QvCXJjJM)
 
-John (DAO Lead) : ICONJohn#0001
+John (DAO Lead) : iconjohn
 
-Arosh (DAO Lead) : arosh#0120
+Arosh (DAO Lead) : arosh
